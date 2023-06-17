@@ -177,7 +177,7 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
+      SubTitle: "如需使用，请加微信：13332513563",
       Placeholder: "请输入访问密码",
     },
     Endpoint: {
